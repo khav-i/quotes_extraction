@@ -26,20 +26,22 @@
 
 ## результат
 
->{<br>
-    "052f98ba-fdc3-4651-8471-61a853996aed": {<br>
-        "text": "“I have not failed. I've just found 10,000 ways that won't work.”",<br>
-        "author": "Thomas A. Edison",<br>
-        "author_info": {<br>
-            "birth_date": "February 11, 1847",<br>
-            "birth_place": "in Milan, Ohio, The United States",<br>
-            "description": "Thomas Alva Edison was an American inventor, scientist and businessman who developed many devices that greatly influenced life around the world, including the phonograph, the motion picture camera, and a long-lasting, practical electric light bulb. Dubbed \"The Wizard of Menlo Park\" (now Edison, New Jersey) by a newspaper reporter, he was one of the first inventors to apply the principles of mass production and large teamwork to the process of invention, and therefore is often credited with the creation of the first industrial research laboratory.Edison is considered one of the most prolific inventors in history, holding 1,093 U.S. patents in his name, as well as many patents in the United Kingdom, France and Germany. He is credited with numerous inventions that contributed to mass communication and, in particular, telecommunications. His advanced work in these fields was an outgrowth of his early career as a telegraph operator. Edison originated the concept and implementation of electric-power generation and distribution to homes, businesses, and factories – a crucial development in the modern industrialized world. His first power station was on Manhattan Island, New York."<br>
-        },<br>
-        "tags": [<br>
-            "edison",<br>
-            "failure",<br>
-            "inspirational",<br>
-            "paraphrased"<br>
-        ]<br>
-    }, ...<br>
- }
+```json
+{
+    "052f98ba-fdc3-4651-8471-61a853996aed":
+        "text": "“I have not failed. I've just found 10,000 ways that won't work.”",
+        "author": "Thomas A. Edison",
+        "author_info":
+            "birth_date": "February 11, 1847",
+            "birth_place": "in Milan, Ohio, The United States",
+            "description": "Thomas Alva Edison was an American inventor, scientist and businessman who developed many devices that greatly influenced life around the world, including the phonograph, the motion picture camera, and a long-lasting, practical electric light bulb. Dubbed \"The Wizard of Menlo Park\" (now Edison, New Jersey) by a newspaper reporter, he was one of the first inventors to apply the principles of mass production and large teamwork to the process of invention, and therefore is often credited with the creation of the first industrial research laboratory.Edison is considered one of the most prolific inventors in history, holding 1,093 U.S. patents in his name, as well as many patents in the United Kingdom, France and Germany. He is credited with numerous inventions that contributed to mass communication and, in particular, telecommunications. His advanced work in these fields was an outgrowth of his early career as a telegraph operator. Edison originated the concept and implementation of electric-power generation and distribution to homes, businesses, and factories – a crucial development in the modern industrialized world. His first power station was on Manhattan Island, New York."
+        },
+        "tags": [
+            "edison",
+            "failure",
+            "inspirational",
+            "paraphrased"
+        ]
+    }, ...
+}
+```
